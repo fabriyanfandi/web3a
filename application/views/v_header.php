@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Kelas 3A</title>
+    <title>Website Kelas 3A</title>
     <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/stylebuku.css">
     <link rel="shortcut icon" href="<?php echo base_url() ?>assets/img/favicon.png">
 </head>
